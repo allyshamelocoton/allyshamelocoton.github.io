@@ -2,12 +2,14 @@
 font-family: 'Rock Salt', cursive;
 font-family: 'Open Sans', sans-serif;
 font-family; 'Loved by the King', cursive;
+font-family: 'Dawning of a New Day', cursive;
+font-family: 'Droid Serif', serif;
 */
 
 /*NAV IS HERE*/
 
 nav ul li {
-    font-family:'Open Sans', sans-serif;
+    font-family:'Droid Serif', serif;
         list-style-type: none;
         float:inherit;
      margin-left: auto;
@@ -15,7 +17,7 @@ nav ul li {
         text-align: center;
      display: block;
     float: left;
-    font-family:'Open Sans', sans-serif;  
+    font-family:'Droid Serif', serif;  
     
 }
 
@@ -27,7 +29,7 @@ nav ul li a hover {
     border-top-left-radius: 1em 1em;
     border-top-right-radius: 1em 1em;
     text-align: center;
-    font-family:'Open Sans', sans-serif;    
+    font-family:'Droid Serif', serif;    
     font-size: 2em;
     position: relative;
     position: absolute;
@@ -42,7 +44,7 @@ nav ul li a hover {
         padding-left: 7em;
         padding-right: 7em;
         align-content: center;
-        font-family:'Open Sans', sans-serif;
+        font-family:'Droid Serif', serif;
         display: inline;
         list-style-type: none;
         color: #6A6A6A;
@@ -64,13 +66,13 @@ a {
 }
 
 span {
-    font-family: 'Rock Salt', cursive;
+    font-family: 'Dawning of a New Day', cursive;
     font-size: 1.5em;
 }
 
 
 .information {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Droid Serif', serif;
     font-size: .5em;
     position: relative;
     top: -.7em;
@@ -78,7 +80,7 @@ span {
 
 h2.title {
     font-size: 5em;
-    font-family: 'Open Sans' sans-serif;
+    font-family: 'Droid Serif' serif;
 }
 
 a.title:link {
@@ -122,7 +124,7 @@ div.me {
   padding-top: 110px;
   min-height: 300px;
   letter-spacing: 2px;
-  font-family: "Loved by the King", cursive;
+  font-family: "Dawning of a New Day", cursive;
 }
 
 div.capstone {
@@ -136,7 +138,7 @@ div.capstone {
   padding-top: 110px;
   min-height: 300px;
   letter-spacing: 2px;
-  font-family: "Loved by the King", cursive;
+  font-family: "Dawning of a New Day", cursive;
 }
 
 div.work {
@@ -150,7 +152,7 @@ div.work {
   padding-top: 110px;
   min-height: 300px;
   letter-spacing: 2px;
-  font-family: "Loved by the King", cursive;
+  font-family: "Dawning of a New Day", cursive;
 }
 
 div.resume {
@@ -164,7 +166,7 @@ div.resume {
   padding-top: 110px;
   min-height: 300px;
   letter-spacing: 2px;
-  font-family: "Loved by the King", cursive;
+  font-family: "Dawning of a New Day", cursive;
 }
 
 div.awards {
@@ -178,11 +180,11 @@ div.awards {
   padding-top: 110px;
   min-height: 300px;
   letter-spacing: 2px;
-  font-family: "Loved by the King", cursive;
+  font-family: "Dawning of a New Day", cursive;
 }
 
 footer {
- font-family: "Open Sans", sans-serif;
+ font-family: "Droid Serif", serif;
  font-size: .8em;
  text-align: center;
 }
