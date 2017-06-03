@@ -54,7 +54,7 @@ nav ul li a hover {
 
 a {
     color: #6A6A6A;
-    font-size: 1.4em;
+    font-size: 1.2em;
     text-decoration: none;
     text-align: center;
     }
@@ -67,15 +67,17 @@ a {
 
 span {
     font-family: 'Dawning of a New Day', cursive;
-    font-size: 1.5em;
+    font-size: 2.5em;
+    
 }
 
 
 .information {
     font-family: 'Droid Serif', serif;
     font-size: .5em;
+    font-style: italic;
     position: relative;
-    top: -.7em;
+    top: -.em;
 }
 
 h2.title {
@@ -189,110 +191,82 @@ footer {
  text-align: center;
 }
 
-/*ABOUT ME STARTS HERE*/
-
-div.mainme {
-    background: url(../images/number1.jpg) no-repeat;
-    background-size:cover;
-    width: 1024px;
-    height: 758px;
-    margin-left: auto;
-    margin-right: auto;
-    }
-
+/*ALL INFO*/
 h1.h1me {
-    font-family: 'Rock Salt',sans-serif;
-    font-size: 70px;
+    font-family: 'Dawning of a New Day',cursive;
+    font-size: 100px;
     text-align: center;
     position: relative;
-    top: -50px;
+    top: -90px;
 }
 
 p.meinfo {
-    font-family: 'Open Sans',sans-serif;
-    font-size: 30px;
+    font-family: 'Droid Serif',serif;
+    font-size: 20px;
     text-align: center;
     color: black;
     position: relative;
-    top: -110px;
+    top: -120px;
 }
+
+/*ABOUT ME STARTS HERE*/
+
+div.mainme {
+    position: relative;
+  background: url(../images/yellow1.JPG)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+     padding-top: 375px;
+  min-height: 300px;
+    }
+
+
 
 /*SENIOR CAPSTONE STARTS HERE*/
 
 div.maincapstone {
-  position: relative;
-  background: url(../images/number2.jpg) no-repeat;
-  background-size:cover;
-    width: 1024px;
-    height: 758px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-h1.h1capstone {
-    font-family: 'Rock Salt',sans-serif;
-    font-size: 70px;
-    text-align: center;
-    position: relative; 
-    top: -50px;
-}
-
-p.capstoneinfo {
-    font-family: 'Open Sans',sans-serif;
-    font-size: 30px;
-    text-align: center;
-    color: black;
     position: relative;
-    top: -110px;
-}
+  background: url(../images/yellow2.JPG)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+     padding-top: 375px;
+  min-height: 300px;
+    }
+
 
 
 /*MY WORK STARTS HERE*/
 
 div.mainwork {
   position: relative;
-  background: url(../images/number4.jpg) no-repeat;
-background-size:cover;
-    width: 1280px;
-    height: 684px;
-    margin-left: auto;
-    margin-right: auto;
+  background: url(../images/yellow3.JPG)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+     padding-top: 375px;
+  min-height: 300px;
 }
 
 h1.h1work {
-    font-family: 'Rock Salt',sans-serif;
+    font-family: 'Dawing of a New Day',cursive;
     font-size: 60px;
     text-align: center;
     position: relative;
     top: -50px;
 }
 
-p.workinfo {
-    font-family: 'Open Sans',sans-serif;
-    font-size: 30px;
-    text-align: center;
-    color: black;
-    position: relative;
-    top: -100px;
-}
 
 h2.workinfo {
-     font-family: 'Loved by the King',cursive;
-    font-size: 50px;
-    text-align: center;
-    color: black;
-    position: relative;
-    top: -110px;
-}
-
-h3.summary {
-    font-family: 'Open Sans',sans-serif;
+     font-family: 'Droid Serif',serif;
     font-size: 25px;
     text-align: center;
     color: black;
     position: relative;
-    top: -150px;
+    top: -130px;
 }
+
 
 div.potrait {
      background: url(../images/self.png) no-repeat;
@@ -455,17 +429,17 @@ div.spread {
 /*RESUME STARTS HERE*/
 
 div.mainresume {
-  position: relative;
-  background: url(../images/number3.jpg) no-repeat;
-background-size:cover;
-    width: 1024px;
-    height: 758px;
-    margin-left: auto;
-    margin-right: auto;
+   position: relative;
+  background: url(../images/yellow4.JPG)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+     padding-top: 375px;
+  min-height: 300px;
 }
 
 h1.h1resume {
- font-family: 'Rock Salt', sans-serif;
+ font-family: 'Dawning of a New Day', cursive;
     font-size: 60px;
     text-align: center; 
     position: relative;
@@ -473,59 +447,50 @@ h1.h1resume {
     }
 
 h2.titles {
-    font-family: 'Loved by the King', cursive;
+    font-family: 'Dawning of a New Day', cursive;
     font-size: 50px;
     position: relative;
     top:-170px;
 }
 
 p.extra {
-    font-family: 'Open Sans',sans-serif;
+    font-family: 'Droid Serif',serif;
     text-align: center;
     position: relative;
     top: -160px;
-    font-size: 20px;
+    font-size: 19px;
 }
 
 a.email {
-    font-family: 'Open Sans',sans-serif;
+    font-family: 'Droid Serif',serif;
     text-align: center;
     position: relative;
     top: -5px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 
 /*AWARDS STARTS HERE*/
 
 div.mainawards {
-  position: relative;
-  background: url(../images/new4.jpg) no-repeat;
-    background-size:cover;
-    width: 1334px;
-    height: 714px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    top: -.99em;
+   position: relative;
+  background: url(../images/yellow5.JPG)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+     padding-top: 375px;
+  min-height: 300px;
 }
 
-h1.h1awards {
-    font-family: 'Rock Salt',sans-serif;
-    font-size: 60px;
-    text-align: center;
-    position: relative;
-    top: -50px;
-}
 
 
 h2.awardsinfo {
-    font-family: 'Loved by the King',cursive;
-    font-size: 30px;
+    font-family: 'Droid Serif',cursive;
+    font-size: 19px;
     text-align: center;
     color: black;
     position: relative;
-    top: -110px;
+    top: -120px;
 }
 
 div.illustrator {
